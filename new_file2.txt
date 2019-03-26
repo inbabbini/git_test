@@ -1,1 +1,2 @@
 new file data
+modifying new_file2.txt content on master branch
