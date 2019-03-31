@@ -11,8 +11,5 @@ modifying new_file2.txt content on feature2 branch
 puto el que lee
 jajaja
 soy re divertida
-te voy a comer los cachetes
 
-
-
-los 4
+alguna feature nueva reloca
